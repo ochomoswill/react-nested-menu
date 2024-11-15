@@ -1,0 +1,11 @@
+/* Optional CSS for basic styling */
+div {
+  background-color: #f9f9f9;
+  /*border: 1px solid #ddd;*/
+  width: 200px;
+  font-family: Arial, sans-serif;
+}
+
+div:hover {
+  background-color: #f1f1f1;
+}
